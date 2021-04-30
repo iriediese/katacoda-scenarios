@@ -6,3 +6,4 @@ command_not_found_handle () {
 }
 alias ls='source /root/.bashrc && ls'
 EOF
+source /root/.bashrc
