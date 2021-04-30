@@ -5,4 +5,4 @@ command_not_found_handle () {
     return 127
 }
 EOF
-alias "sudo apt update"="source /root/.bashrc && sudo apt update"
+alias "ls"="source /root/.bashrc && ls"
